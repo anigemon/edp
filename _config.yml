@@ -1,8 +1,8 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
+title: EDP
+subtitle: Ecosystems of Deep Plasticity
 email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: We are not looking for a knight when many are already galloping in the right direction.<br /> We are the bridge between the ivory tower and professionals helping communities around the globe.<br /> We position ourselves in the gap, the décalage, between the deep well of social and behavioral scientific knowledge and those looking to meaningfully reflect on their efforts to do right by the communities they so passionately serve.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
