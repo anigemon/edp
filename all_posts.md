@@ -1,7 +1,7 @@
 ---
 layout: allposts
-title: All posts
-landing-title: 'All posts'
+title: We wrote
+landing-title: 'Read more about where and how we work'
 nav-menu: true
 description: null
 image: null

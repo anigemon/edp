@@ -2,8 +2,9 @@
 layout: post
 title: Civil Society
 description: Lorem ipsum dolor est
-image:
+image: 
 nav-menu: false
+show_tile: false
 ---
 
 We understand that you are already inundated by work, and that you are the most passionate about spending time on bringing change to communities. We see that you are tired of “wasting” time and resources on the evaluation of your work and writing detailed reports.
@@ -17,7 +18,7 @@ We make recommendations on how to improve your own impact assessment mechanisms 
 
 With our help, you will be able to report the impact and evaluation of your work when looking for funding or partners, whether it would be in the governmental or private sector. We also offer to write and design such reports.
 
-We will help you to better identify the needs and aims of the stakeholders in your organization. Especially if such a stakeholder is also a funding source. We ask, how will we motivate this stakeholder to provide sustainable and continuous funding to your organization? Our answer→ by providing transparent and accessible reports on your performance and activities on the ground.
+We will help you to better identify the needs and aims of the stakeholders in your organization. Especially if such a stakeholder is also a funding source. We ask, how will we motivate this stakeholder to provide sustainable and continuous funding to your organization? Our answer: by providing transparent and accessible reports on your performance and activities on the ground.
 
 You seek to serve your community while your stakeholders seek value creation. We are the bridge to show them that these two are interlinked.
 
@@ -28,5 +29,5 @@ Conducting an evaluation can also increase the knowledge of members about their 
 With our help members will be able to explore more in depth the inherent values of the organization. This could increase their commitment to their tasks and projects. Don’t forget, members also need more insight into their value creation, they want to hear the catchphrases “this is worth it” or “I can make a difference.”
 
 ### The evaluation we offer will:
-prioritize your resources and direct them to the areas and activities where most improvement is needed.
-increase awareness of the constraints and how to overcome them.
+* prioritize your resources and direct them to the areas and activities where most improvement is needed.
+* increase awareness of the constraints and how to overcome them.

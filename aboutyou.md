@@ -1,10 +1,29 @@
 ---
-title: Landing
-layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
-image: assets/images/pic07.jpg
+title: Our partnership
+layout: page
+description: 'We are here to enable you to help communities.'
+image: assets/images/pic12.jpg
 nav-menu: true
 ---
+
+<section id="banner" class="style2">
+		<div class="inner">
+				<span class="image">
+						<img src="{{ site.baseurl }}/{{ page.image }}" alt="">
+				</span>
+				<header class="major">
+
+						<h1>{{ page.title }}</h1>
+
+				</header>
+				<div class="content">
+
+						{{ page.description }}
+
+				</div>
+		</div>
+</section>
+
 
 <!-- Main -->
 <div id="main">
@@ -14,7 +33,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
+			<img src="assets/images/pic013.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -30,14 +49,14 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
+			<img src="assets/images/pic014.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>Public Sector</h3>
 				</header>
-				<p> As the intensity and urgency of current challenges faced by billions of people increases, the seismic changes in technology bring expectations of our communities to never before seen heights. Various actors expect the public sector being “a magical problem-solver,” however, we understand the complexity of this mandate. With our assistance, you will be able to assess the impact of your projects and current and/or planned funding transfers to civil society organizations, get recommendations on efficient and effective implementation of your objectives, and bridging the existing gap between the non-governmental organizations, the public sector, the private sector, and community.</p>
+				<p> As the intensity and urgency of current challenges faced by billions of people increases, the seismic changes in technology bring expectations of our communities to never before seen heights. With our assistance, you will be able to assess the impact of your projects, current or planned funding transfers to CSOs, get recommendations on efficient and effective implementation of your objectives, and bridging the existing gap between the non-governmental organizations, the public sector, the private sector, and community.</p>
 				<ul class="actions">
 					<li><a href="public.html" class="button">Learn more</a></li>
 				</ul>
@@ -46,7 +65,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
+			<img src="assets/images/pic015.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
