@@ -11,6 +11,60 @@ show_tile: true
 <!-- One -->
 <section id="one">
 	<div class="inner">
+
+<div class="row">
+	<div class="4u 12u$(xsmall)">
+
+<svg id="E" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 378.947 359.649">
+<path class="loglett" fill="none" stroke="#B5B35A" stroke-width="18" stroke-miterlimit="10" d="M344.063 85.929h0l17.557-65.514-335.159-.001 87.775 327.593h159.601l17.557-65.517-114.913-.001-17.554-65.521h79.801l-17.579-65.518H141.35l-17.535-65.521z"/>
+</svg>
+
+<script>
+new Vivus('E', {
+type: 'delayed',
+duration: 150,
+animTimingFunction: Vivus.EASE
+});
+</script>
+
+
+		<center><h3>Ecosystems</h3></center>
+		<p>The development community is a network of different “brains:” communities, causes, and actors, that we endeavor to make more resilient, efficacious, and just over time.</p>
+	</div>
+	<div class="4u 12u$(medium)">
+
+<svg id="D" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 378.947 359.649">
+<path class="loglett" fill="none" stroke="#B5B35A" stroke-width="18" stroke-linecap="round" stroke-miterlimit="10" d="M79.35 151.454l17.533 65.52h79.8l17.578 65.518h-79.8l17.555 65.521h114.912l52.669-196.559z"/></svg>
+
+	<script>
+	new Vivus('D', {
+	type: 'delayed',
+	duration: 150,
+	animTimingFunction: Vivus.EASE
+	});
+	</script>
+
+		<center><h3>of Deep</h3></center>
+		<p>We believe this must happen throughout all the levels of the community, from individual beneficiaries to NGO teams and donors.</p>
+	</div>
+	<div class="4u$ 12u$(medium)">
+
+	<svg id="P" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 378.947 359.649">
+	<path class="loglett" fill="none" stroke="#B5B35A" stroke-width="18" stroke-linecap="round" stroke-miterlimit="10" d="M198.253 151.454l-17.557 65.519-17.556 65.519-17.558 65.519-79.801.002 17.557-65.519 17.557-65.519 17.556-65.519 17.557-65.518 17.556-65.521h159.602l-17.557 65.519-17.555 65.52h-79.801l-52.671 196.555z"/></svg>
+
+		<script>
+		new Vivus('P', {
+		type: 'delayed',
+		duration: 150,
+		animTimingFunction: Vivus.EASE
+		});
+		</script>
+
+		<center><h3>Plasticity</h3></center>
+		<p>The ability of the human brain to quite simply change; it is able to relocate some functions, for instance after trauma. We believe the development community is able to duplicate this ability and become more resilient.</p>
+	</div>
+</div>
+
 		<header class="major">
 			<h1>Who we are</h1>
 		</header>

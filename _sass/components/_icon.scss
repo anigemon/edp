@@ -48,3 +48,23 @@
 			}
 		}
 	}
+
+
+/* SVG */
+	.loglett{
+		stroke: _palette(fg);
+		&:before {
+			@include vendor('transition', 'stroke #{_duration(transition)} ease-in-out');
+		}
+
+	&:hover {
+		@include vendor('transition', 'stroke #{_duration(transition)} ease-in-out');
+		stroke:_palette(highlight);
+	}
+
+	&:after {
+		@include vendor('transition', 'stroke #{_duration(transition)} ease-in-out');
+		stroke:_palette(fg);
+	}
+
+}
