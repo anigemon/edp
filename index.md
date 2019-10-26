@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'WHERE KNOWLEDGE AND PRACTICE ARE ONE'
+landing-title: 'WHERE PRACTICE AND KNOWLEDGE ARE ONE'
 description: null
 image: null
 author: null
