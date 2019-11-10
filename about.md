@@ -5,6 +5,8 @@ description: 'Find out more about what drives us.'
 image: assets/images/pic07.jpg
 nav-menu: true
 show_tile: true
+custom-javascript-list:
+      - "https://cdnjs.cloudflare.com/ajax/libs/vivus/0.4.5/vivus.min.js"
 ---
 
 
@@ -13,11 +15,11 @@ show_tile: true
 	<div class="inner">
 
 <div class="row">
-	<div class="4u 12u$(xsmall)">
+	<div class="4u 12u$(medium)">
 
-<svg id="E" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 378.947 359.649">
-<path class="loglett" fill="none" stroke="#B5B35A" stroke-width="18" stroke-miterlimit="10" d="M344.063 85.929h0l17.557-65.514-335.159-.001 87.775 327.593h159.601l17.557-65.517-114.913-.001-17.554-65.521h79.801l-17.579-65.518H141.35l-17.535-65.521z"/>
-</svg>
+	<svg id="E" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 378.9 352.6">
+	  <path class="loglett" fill="none" stroke="#b5b35a" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="200" stroke-width="13" d="M26.5 13.4h335.1l-17.5 65.5H123.8l17.5 65.5h79.8l17.6 65.6h-79.8l17.6 65.5h114.9L273.8 341H114.2z"/>
+	</svg>
 
 <script>
 new Vivus('E', {
@@ -27,14 +29,13 @@ animTimingFunction: Vivus.EASE
 });
 </script>
 
-
 		<center><h3>Ecosystems</h3></center>
 		<p>The development community is a network of different “brains:” communities, causes, and actors, that we endeavor to make more resilient, efficacious, and just over time.</p>
 	</div>
-	<div class="4u 12u$(medium)">
 
+	<div class="4u 12u$(medium)">
 <svg id="D" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 378.947 359.649">
-<path class="loglett" fill="none" stroke="#B5B35A" stroke-width="18" stroke-linecap="round" stroke-miterlimit="10" d="M79.35 151.454l17.533 65.52h79.8l17.578 65.518h-79.8l17.555 65.521h114.912l52.669-196.559z"/></svg>
+<path class="loglett" fill="none" stroke="#b5b35a" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="200" stroke-width="13" d="M79.35 151.454l17.533 65.52h79.8l17.578 65.518h-79.8l17.555 65.521h114.912l52.669-196.559z"/></svg>
 
 	<script>
 	new Vivus('D', {
@@ -50,7 +51,7 @@ animTimingFunction: Vivus.EASE
 	<div class="4u$ 12u$(medium)">
 
 	<svg id="P" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 378.947 359.649">
-	<path class="loglett" fill="none" stroke="#B5B35A" stroke-width="18" stroke-linecap="round" stroke-miterlimit="10" d="M198.253 151.454l-17.557 65.519-17.556 65.519-17.558 65.519-79.801.002 17.557-65.519 17.557-65.519 17.556-65.519 17.557-65.518 17.556-65.521h159.602l-17.557 65.519-17.555 65.52h-79.801l-52.671 196.555z"/></svg>
+	<path class="loglett" fill="none" stroke="#b5b35a" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="200" stroke-width="13" d="M198.253 151.454l-17.557 65.519-17.556 65.519-17.558 65.519-79.801.002 17.557-65.519 17.557-65.519 17.556-65.519 17.557-65.518 17.556-65.521h159.602l-17.557 65.519-17.555 65.52h-79.801l-52.671 196.555z"/></svg>
 
 		<script>
 		new Vivus('P', {
