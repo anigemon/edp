@@ -1,7 +1,7 @@
 ---
-title: Our partnership
+title: Our network
 layout: page
-description: 'We are here to enable you to help communities.'
+description: We are here to help &nbsp; <b>YOU</b>
 image: assets/images/pic12.jpg
 nav-menu: true
 ---
@@ -32,7 +32,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
+		<a href="civil.html" class="image">
 			<img src="assets/images/pic013.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -40,7 +40,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Civil Society</h3>
 				</header>
-				<p>We can help you to tackle societal problems by bringing your organization and the community you serve closer. How? We offer innovative assessments methods and data collection to evaluate your programs on the ground and study how your operation is perceived by the people you work for.</p>
+				<p>We can help you to tackle societal problems by bringing your organization and the community you serve closer. We offer innovative assessment methods and data collection to evaluate your programs on the ground and study how your operation is perceived by the people you work for.</p>
 				<ul class="actions">
 					<li><a href="civil.html" class="button">Learn more</a></li>
 				</ul>
@@ -48,7 +48,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="public.html" class="image">
 			<img src="assets/images/pic014.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -56,7 +56,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Public Sector</h3>
 				</header>
-				<p> As the intensity and urgency of current challenges faced by billions of people increases, the seismic changes in technology bring expectations of our communities to never before seen heights. With our assistance, you will be able to assess the impact of your projects, current or planned funding transfers to CSOs, get recommendations on efficient and effective implementation of your objectives, and bridging the existing gap between the non-governmental organizations, the public sector, the private sector, and community.</p>
+				<p> As the intensity and urgency of current challenges faced by billions of people increases, the seismic changes in technology bring expectations of our communities to never before seen heights. With our assistance, you will be able to assess the impact of your projects, current or planned funding transfers to CSOs, get recommendations on efficient and effective implementation of your objectives.</p>
 				<ul class="actions">
 					<li><a href="public.html" class="button">Learn more</a></li>
 				</ul>
@@ -64,8 +64,8 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/pic015.jpg" alt="" data-position="25% 25%" />
+		<a href="private.html" class="image">
+			<img src="assets/images/pic015.jpg" alt="" />
 		</a>
 		<div class="content">
 			<div class="inner">

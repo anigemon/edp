@@ -1,6 +1,6 @@
 ---
 layout: allposts
-title: We wrote
+title: From us to you
 landing-title: 'Read more about where and how we work'
 nav-menu: true
 description: null

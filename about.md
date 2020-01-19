@@ -71,7 +71,16 @@ animTimingFunction: Vivus.EASE
 		</header>
 
 <!-- Content -->
-<p>We envision a world where existing resources, human capital, and knowledge are utilized to their full potential. Our contribution to this world: the transformation of development actors’ structural inefficiencies into assets, catalyzing change across all levels of the community by increasing stakeholder resiliency.  Today, there are more than 10 million non-governmental organizations, 195 states and territories, over 68000 international organizations, more than 200 inter-governmental organizations, over 77000 transnational corporations, and more than thousands of millions of private sector companies, including small and medium enterprises worldwide that are dedicated to their missions and aimed at bringing a positive change. We are not competitors, we are the connecting link striving to assist all actors to become more efficient and effective in order to make a change and improve lives of 7.7 billion people.</p>
+<p>
+<center><b>Our contribution to this world</b></center>
+
+<b>Transform</b> development actors’ structural <b>inefficiencies into assets</b> and <b>catalyzing change</b> across all levels of the community by <b>increasing stakeholder resiliency.</b> </p>
+<p>
+Today, there are more than 10 million non-governmental organizations, 195 states and territories, over 68000 international organizations, more than 200 inter-governmental organizations, over 77000 transnational corporations, and more than thousands of millions of private sector companies, including small and medium enterprises, worldwide that are dedicated to their missions and aimed at bringing a positive change.
+</p>
+<p>
+We are not competitors, we are the connecting link striving to assist all actors to become more efficient and effective in order to make a change and improve the lives of 7.7 billion people.
+</p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>What we do</h3>
