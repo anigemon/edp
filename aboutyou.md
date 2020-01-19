@@ -1,7 +1,7 @@
 ---
-title: Our network
+title: Our expertise
 layout: page
-description: We are here to help &nbsp; <b>YOU</b>
+description: We are here to help&nbsp;<b>YOU</b>
 image: assets/images/pic12.jpg
 nav-menu: true
 ---
